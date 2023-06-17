@@ -25,16 +25,10 @@ o	<li> is a list item in a bulleted (ordered list)
  3) Explain the working Procedure of Virtual DOM.
 The virtual DOM provides a mechanism that abstracts manual DOM manipulations away from the developer, helping us to write more predictable code. It does so by comparing two render trees to determine exactly what has changed, only updating what is necessary on the actual DOM. The Virtual DOM avoids unnecessary updates and re-rendering of a web application user interface every time a change is made, hence making the web application fast and more efficient. The Virtual DOM improves a web application's user experience by reducing latency.
 
-
-
 4) Mention some Differences between MySQL and No SQL
 Some of the key differences between MySQL and NoSQL are discussed below-
 First, MySQL is a relational database based on a tabular design. NoSQL is non-relational and has a document-based design.A MySQL database is currently more popular in the market than NoSQL because the latter is still fairly new. That means, at present, MySQL encompasses a large community while NoSQL has a comparatively small community while MySQL is not easily scalable due to rigid schema restrictions, NoSQL can easily be scaled because of its dynamic schema nature another key difference is MySQL requires a detailed database model before the creation of the database while NoSQL requires no detailed modelling .Also, unlike MySQL, which is a type of relational database, NoSQL is more design-based, with examples like CouchDB and MongoDB. Furthermore, NoSQL is much more flexible than MySQL.
 One of the good things about MySQL is that it is available with a broad range of reporting tools that can help the validity of an application. On the other hand, NoSQL databases do not have reporting tools for performance testing and analysis.
-
-
-
-
 
 5) Explain any one DBMS Technology in your own words.
 NoSQL DBMS. Well-suited for loosely defined data structures that may evolve over time may require more application involvement for schema management. There are four types of NoSQL database systems: document databases, graph databases, key-value stores and wide-column stores 
